@@ -1,0 +1,2 @@
+continue
+Hi. bandit!
